@@ -7,6 +7,8 @@ export const metadata: Metadata = {
 };
 
 const posts = [
+  { slug: 'how-to-reduce-word-count', title: 'How to Reduce Word Count: 15 Editing Tips for Tighter Writing', description: 'Learn 15 proven techniques to cut word count without losing meaning.', date: '2026-03-29', readTime: '8 min' },
+  { slug: 'best-word-counter-tools-2026', title: 'Best Word Counter Tools in 2026: Free Online Options Compared', description: 'Compare the best free word counter tools online. Features, accuracy, and recommendations.', date: '2026-03-27', readTime: '7 min' },
   { slug: 'ideal-word-count-blog-posts-essays', title: 'Ideal Word Count for Blog Posts, Essays, and Social Media in 2026', description: 'How long should your content be? Data-backed word count recommendations for every format.', date: '2026-03-28', readTime: '8 min' },
   { slug: 'what-is-flesch-reading-ease', title: 'What Is Flesch Reading Ease Score? How to Improve Readability', description: 'Understanding the Flesch formula and practical tips to make your writing more accessible.', date: '2026-03-25', readTime: '7 min' },
   { slug: 'social-media-character-limits-2026', title: 'Social Media Character Limits 2026: Complete Guide', description: 'Updated character and word limits for Twitter, Instagram, LinkedIn, Facebook, YouTube, and more.', date: '2026-03-20', readTime: '5 min' },

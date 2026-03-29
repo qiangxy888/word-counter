@@ -55,6 +55,141 @@ const posts: Record<string, { title: string; description: string; date: string; 
 <ul><li><strong>Title tag:</strong> 50-60 characters</li><li><strong>Meta description:</strong> 150-160 characters</li></ul>
 <p>Use our <a href="/word-counter">word counter tool</a> to check your text against all these limits in real-time.</p>`,
   },
+  'how-to-reduce-word-count': {
+    title: 'How to Reduce Word Count: 15 Editing Tips for Tighter Writing',
+    description: 'Learn 15 proven techniques to cut word count without losing meaning. Essential for essays, articles, and professional writing.',
+    date: '2026-03-29',
+    readTime: '8 min',
+    content: `<p><strong>Need to cut your word count?</strong> Whether you're over a college essay limit, tightening a blog post, or editing a cover letter, these 15 techniques will help you write more concisely without sacrificing clarity.</p>
+
+<p>Start by pasting your text into our <a href="/word-counter">word counter</a> to see exactly where you stand.</p>
+
+<h2>Quick Wins (Cut 10-20% Fast)</h2>
+
+<h3>1. Delete "That"</h3>
+<p>The word "that" is unnecessary in 90% of sentences. "I think that this is good" → "I think this is good." Read each sentence aloud — if it works without "that," delete it.</p>
+
+<h3>2. Replace "In order to" with "To"</h3>
+<p>"In order to succeed" → "To succeed." Three words become one. Apply the same logic to: "due to the fact that" → "because," "at this point in time" → "now."</p>
+
+<h3>3. Cut Adverbs</h3>
+<p>"Very important" → "crucial." "Really fast" → "rapid." "Extremely good" → "excellent." Adverbs often weaken writing — replace adverb + adjective with a single strong word.</p>
+
+<h3>4. Remove "I think / I believe / In my opinion"</h3>
+<p>If you're writing it, the reader already knows it's your opinion. "I think the policy should change" → "The policy should change." Saves 2-4 words per occurrence.</p>
+
+<h3>5. Delete Filler Openings</h3>
+<p>Cut: "It is important to note that…" "There are many reasons why…" "It goes without saying that…" Just state the point directly.</p>
+
+<h2>Structural Cuts (Cut 20-30%)</h2>
+
+<h3>6. One Idea Per Sentence</h3>
+<p>Long, compound sentences can usually be split or simplified. If a sentence has two commas and an "and," consider breaking it apart or cutting the weaker half.</p>
+
+<h3>7. Cut Redundant Pairs</h3>
+<p>"Each and every" → "each." "First and foremost" → "first." "Hopes and dreams" → "hopes." English is full of redundant pairs inherited from Anglo-Saxon + Latin. Pick one word.</p>
+
+<h3>8. Replace Phrases with Single Words</h3>
+<table><thead><tr><th>Wordy</th><th>Concise</th><th>Words Saved</th></tr></thead>
+<tbody>
+<tr><td>in the event that</td><td>if</td><td>4</td></tr>
+<tr><td>at the present time</td><td>now</td><td>3</td></tr>
+<tr><td>has the ability to</td><td>can</td><td>3</td></tr>
+<tr><td>in spite of the fact that</td><td>although</td><td>5</td></tr>
+<tr><td>make a decision</td><td>decide</td><td>2</td></tr>
+<tr><td>give consideration to</td><td>consider</td><td>2</td></tr>
+</tbody></table>
+
+<h3>9. Use Active Voice</h3>
+<p>"The report was written by the team" (8 words) → "The team wrote the report" (6 words). Active voice is almost always shorter and stronger.</p>
+
+<h3>10. Merge Short Paragraphs</h3>
+<p>If two consecutive paragraphs make the same point, combine them. Cut the transitional sentence between them.</p>
+
+<h2>Advanced Techniques (Final Polish)</h2>
+
+<h3>11. Read Aloud</h3>
+<p>If you run out of breath or stumble, the sentence is too long. If it sounds repetitive, it probably is.</p>
+
+<h3>12. Cut Your Intro and Conclusion by Half</h3>
+<p>Introductions and conclusions are where most filler lives. Get to the point faster at the start, summarize more tightly at the end.</p>
+
+<h3>13. Delete Sentences That Repeat Earlier Points</h3>
+<p>Search your text for key phrases. If the same idea appears twice, keep the stronger version and cut the other.</p>
+
+<h3>14. Question Every Adjective</h3>
+<p>Does "large, spacious room" say more than "spacious room"? Usually not. Keep only adjectives that add new information.</p>
+
+<h3>15. Use Our Word Counter's Readability Metrics</h3>
+<p>Our <a href="/word-counter">word counter tool</a> shows reading time, sentence length, and readability scores. Target: average sentence length under 20 words, Flesch reading ease above 60.</p>
+
+<h2>FAQ</h2>
+<h3>How much can I realistically cut?</h3>
+<p>Most first drafts can be cut by 20-30% without losing content. Academic writing can often be cut by 15-20%.</p>
+
+<h3>Will cutting words hurt my SEO?</h3>
+<p>No — Google values quality over quantity. A focused 1,500-word article outranks a padded 3,000-word one. Use our <a href="/keyword-density-checker">keyword density checker</a> to verify keywords after cutting.</p>
+
+<h2>Conclusion</h2>
+<p>Cutting word count isn't about removing ideas — it's about expressing them more efficiently. Start with the quick wins (delete "that," cut adverbs), then make structural changes. Use <a href="/word-counter">WordCountHub</a> to track your progress in real-time.</p>`,
+  },
+  'best-word-counter-tools-2026': {
+    title: 'Best Word Counter Tools in 2026: Free Online Options Compared',
+    description: 'Compare the best free word counter tools online. Features, accuracy, and which one is right for your writing needs.',
+    date: '2026-03-27',
+    readTime: '7 min',
+    content: `<p><strong>Need a reliable word counter?</strong> While every text editor has a built-in word count, dedicated word counter tools offer much more: reading time estimates, keyword density, readability scores, and sentence-level analysis.</p>
+
+<p>We compared 7 popular word counter tools. Here's what we found.</p>
+
+<h2>Quick Comparison</h2>
+<table><thead><tr><th>Tool</th><th>Word Count</th><th>Reading Time</th><th>Readability</th><th>Keyword Density</th><th>Cost</th></tr></thead>
+<tbody>
+<tr><td><strong><a href="/word-counter">WordCountHub</a></strong></td><td>✅</td><td>✅</td><td>✅ Flesch</td><td>✅</td><td>Free</td></tr>
+<tr><td>WordCounter.net</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>Free</td></tr>
+<tr><td>CountWordsFree</td><td>✅</td><td>✅</td><td>❌</td><td>✅</td><td>Free</td></tr>
+<tr><td>Google Docs</td><td>✅</td><td>❌</td><td>❌</td><td>❌</td><td>Free</td></tr>
+<tr><td>Microsoft Word</td><td>✅</td><td>✅</td><td>✅</td><td>❌</td><td>Paid</td></tr>
+<tr><td>Hemingway Editor</td><td>✅</td><td>✅</td><td>✅</td><td>❌</td><td>Free/$)</td></tr>
+<tr><td><a href="/go/grammarly">Grammarly</a></td><td>✅</td><td>✅</td><td>✅</td><td>❌</td><td>Free/Paid</td></tr>
+</tbody></table>
+
+<h2>1. WordCountHub — Best Free All-in-One Tool</h2>
+<p><a href="/word-counter">WordCountHub</a> is our own tool (bias acknowledged!), but it genuinely offers the most features for free: word count, character count, reading time, keyword density analysis, readability scoring, and a case converter — all in one place with no sign-up.</p>
+<p><strong>Standout feature:</strong> <a href="/keyword-density-checker">Keyword density checker</a> shows top keywords with percentages — essential for SEO writers.</p>
+
+<h2>2. WordCounter.net — Most Popular</h2>
+<p>WordCounter.net is the most well-known dedicated word counter. It offers similar features to WordCountHub plus a "writing quality" indicator. The interface is clean but ad-heavy on free tier.</p>
+
+<h2>3. Google Docs — Simplest Built-in Option</h2>
+<p>Tools → Word Count (or Ctrl+Shift+C). Shows words, characters, and characters excluding spaces. No reading time or readability. Good enough if you just need a count.</p>
+
+<h2>4. Hemingway Editor — Best for Readability</h2>
+<p>Hemingway isn't primarily a word counter, but it shows word count alongside powerful readability analysis. It highlights complex sentences, passive voice, and weak adverbs. Grade level targeting is unique and useful.</p>
+
+<h2>5. Grammarly — Best for Writing Quality</h2>
+<p><a href="/go/grammarly">Grammarly</a> shows word count in its editor along with grammar checking, tone detection, and plagiarism scanning (Premium). If you need a word counter PLUS writing improvement, Grammarly is the best choice.</p>
+<p><strong>Limitation:</strong> Many features require Premium ($12/mo). For pure word counting with SEO features, <a href="/word-counter">WordCountHub</a> is free.</p>
+
+<h2>When to Use Each Tool</h2>
+<ul>
+<li><strong>Quick word count:</strong> Google Docs or any text editor</li>
+<li><strong>SEO writing:</strong> <a href="/word-counter">WordCountHub</a> (keyword density + readability)</li>
+<li><strong>Academic writing:</strong> <a href="/word-counter">WordCountHub</a> (word + character limits) or Hemingway (readability)</li>
+<li><strong>Professional writing:</strong> <a href="/go/grammarly">Grammarly</a> (grammar + tone + word count)</li>
+<li><strong>Content marketing:</strong> <a href="/word-counter">WordCountHub</a> for counts + <a href="/go/grammarly">Grammarly</a> for quality</li>
+</ul>
+
+<h2>FAQ</h2>
+<h3>Do spaces count as characters?</h3>
+<p>Depends on context. Twitter counts spaces. Some academic requirements don't. <a href="/character-counter">Our character counter</a> shows both: characters with spaces and characters without spaces.</p>
+
+<h3>How accurate are online word counters?</h3>
+<p>All reputable tools count words the same way (splitting by whitespace). Differences arise in how they handle hyphenated words, numbers, and abbreviations. Variance is typically under 1%.</p>
+
+<h2>Conclusion</h2>
+<p>For most writers, <a href="/word-counter">WordCountHub</a> covers everything you need for free: word count, character count, reading time, keyword density, and readability. Pair it with <a href="/go/grammarly">Grammarly</a> when you need grammar and style checking too.</p>`,
+  },
 };
 
 export async function generateStaticParams() { return Object.keys(posts).map(slug => ({ slug })); }
