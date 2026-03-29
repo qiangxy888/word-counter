@@ -60,6 +60,7 @@ const posts: Record<string, { title: string; description: string; date: string; 
     description: 'Learn 15 proven techniques to cut word count without losing meaning. Essential for essays, articles, and professional writing.',
     date: '2026-03-29',
     readTime: '8 min',
+    keywords: ['reduce word count', 'how to shorten essay', 'cut word count', 'concise writing tips'],
     content: `<p><strong>Need to cut your word count?</strong> Whether you're over a college essay limit, tightening a blog post, or editing a cover letter, these 15 techniques will help you write more concisely without sacrificing clarity.</p>
 
 <p>Start by pasting your text into our <a href="/word-counter">word counter</a> to see exactly where you stand.</p>
@@ -138,6 +139,7 @@ const posts: Record<string, { title: string; description: string; date: string; 
     description: 'Compare the best free word counter tools online. Features, accuracy, and which one is right for your writing needs.',
     date: '2026-03-27',
     readTime: '7 min',
+    keywords: ['word counter tool', 'best word counter', 'online word counter', 'free word counter 2026'],
     content: `<p><strong>Need a reliable word counter?</strong> While every text editor has a built-in word count, dedicated word counter tools offer much more: reading time estimates, keyword density, readability scores, and sentence-level analysis.</p>
 
 <p>We compared 7 popular word counter tools. Here's what we found.</p>
