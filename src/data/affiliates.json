@@ -1,0 +1,7 @@
+[
+  { "name": "Grammarly", "slug": "grammarly", "url": "https://grammarly.com/?ref=wordcounthub", "description": "AI-powered writing assistant with grammar, tone, and clarity suggestions.", "rating": 4.8, "price": "Free plan available, Premium from $12/mo" },
+  { "name": "ProWritingAid", "slug": "prowritingaid", "url": "https://prowritingaid.com/?ref=wordcounthub", "description": "Comprehensive writing analysis with style, grammar, and readability reports.", "rating": 4.6, "price": "Free (limited), Premium from $10/mo" },
+  { "name": "Hemingway Editor", "slug": "hemingway", "url": "https://hemingwayapp.com/?ref=wordcounthub", "description": "Makes your writing bold and clear. Highlights complex sentences and common errors.", "rating": 4.5, "price": "$19.99 one-time" },
+  { "name": "Surfer SEO", "slug": "surfer", "url": "https://surferseo.com/?ref=wordcounthub", "description": "Content optimization tool that helps you write SEO-friendly articles.", "rating": 4.7, "price": "From $49/mo" },
+  { "name": "Jasper AI", "slug": "jasper", "url": "https://jasper.ai/?ref=wordcounthub", "description": "AI writing assistant for marketing teams. Generate content 10x faster.", "rating": 4.5, "price": "From $39/mo" }
+]
