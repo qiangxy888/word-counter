@@ -12,6 +12,11 @@ const posts = [
   { slug: 'ideal-word-count-blog-posts-essays', title: 'Ideal Word Count for Blog Posts, Essays, and Social Media in 2026', description: 'How long should your content be? Data-backed word count recommendations for every format.', date: '2026-03-28', readTime: '8 min' },
   { slug: 'what-is-flesch-reading-ease', title: 'What Is Flesch Reading Ease Score? How to Improve Readability', description: 'Understanding the Flesch formula and practical tips to make your writing more accessible.', date: '2026-03-25', readTime: '7 min' },
   { slug: 'social-media-character-limits-2026', title: 'Social Media Character Limits 2026: Complete Guide', description: 'Updated character and word limits for Twitter, Instagram, LinkedIn, Facebook, YouTube, and more.', date: '2026-03-20', readTime: '5 min' },
+  { slug: 'ideal-essay-length-by-type', title: 'Ideal Essay Length by Type: College, Grad School, and Scholarship', description: 'Word count guidelines for every type of academic essay.', date: '2026-03-22', readTime: '7 min' },
+  { slug: 'seo-content-length-guide', title: 'SEO Content Length: How Many Words Do You Need to Rank?', description: 'Data-driven guide to optimal content length for SEO.', date: '2026-03-20', readTime: '9 min' },
+  { slug: 'readability-scores-explained', title: 'Readability Scores Explained: Flesch, Gunning Fog, and More', description: 'What readability scores mean and what to aim for.', date: '2026-03-17', readTime: '8 min' },
+  { slug: 'writing-word-count-by-genre', title: 'Word Count by Genre: Novel, Novella, Short Story, and More', description: 'Industry-standard word counts for every fiction and non-fiction genre.', date: '2026-03-14', readTime: '7 min' },
+  { slug: 'character-count-for-meta-descriptions', title: 'Character Count for Meta Descriptions, Titles, and Social Media', description: 'The exact character limits for SEO and social media.', date: '2026-03-11', readTime: '6 min' },
 ];
 
 export default function BlogPage() {

@@ -190,6 +190,232 @@ const posts: Record<string, { title: string; description: string; date: string; 
 <h2>Conclusion</h2>
 <p>For most writers, <a href="/word-counter">WordCountHub</a> covers everything you need for free: word count, character count, reading time, keyword density, and readability. Pair it with <a href="/go/grammarly">Grammarly</a> when you need grammar and style checking too.</p>`,
   },
+  'ideal-essay-length-by-type': {
+    title: 'Ideal Essay Length by Type: College, Grad School, and Scholarship',
+    description: 'How long should your essay be? Word count guidelines for every type of academic and scholarship essay.',
+    date: '2026-03-22', readTime: '7 min',
+    keywords: ['essay word count', 'how long should an essay be', 'college essay length', 'scholarship essay length'],
+    content: `<p><strong>"How long should my essay be?"</strong> is the most common question students ask. The answer depends on the type, purpose, and where you're submitting. Here's a comprehensive guide.</p>
+
+<h2>Essay Length by Type</h2>
+<table><thead><tr><th>Essay Type</th><th>Typical Length</th><th>Pages (12pt, double-spaced)</th></tr></thead>
+<tbody>
+<tr><td>College application (Common App)</td><td>250-650 words</td><td>~1-2 pages</td></tr>
+<tr><td>Scholarship essay</td><td>500-1,000 words</td><td>1.5-3 pages</td></tr>
+<tr><td>Short answer / supplemental</td><td>100-250 words</td><td>0.5-1 page</td></tr>
+<tr><td>High school essay</td><td>500-1,500 words</td><td>2-5 pages</td></tr>
+<tr><td>Undergraduate paper</td><td>1,500-5,000 words</td><td>5-17 pages</td></tr>
+<tr><td>Graduate thesis chapter</td><td>5,000-10,000 words</td><td>17-33 pages</td></tr>
+<tr><td>PhD dissertation</td><td>60,000-100,000 words</td><td>200-350 pages</td></tr>
+</tbody></table>
+
+<h2>College Application Essays</h2>
+<p>The Common App personal statement has a strict 650-word limit. Admissions officers read thousands — respect the limit. Aim for 600-650 words; going under 500 looks like you didn't try.</p>
+<p><strong>Supplemental essays</strong> are typically 100-250 words. Be concise. Every word counts.</p>
+
+<h2>What Happens If You Go Over the Limit?</h2>
+<ul>
+<li><strong>Common App:</strong> Hard limit — the system cuts you off at 650 words</li>
+<li><strong>Scholarships:</strong> Many will disqualify over-limit submissions without reading them</li>
+<li><strong>Class assignments:</strong> Depends on professor, but 10% over is generally acceptable</li>
+</ul>
+
+<h2>Tips for Hitting Your Target</h2>
+<ol>
+<li><strong>Draft freely, then cut.</strong> Write 20% over, then trim to the limit</li>
+<li><strong>One idea per paragraph.</strong> If you need fewer words, cut entire paragraphs, not individual words</li>
+<li><strong>Use <a href="/word-counter">WordCountHub</a></strong> to track your count in real-time as you edit</li>
+</ol>
+
+<p>Check your essay length instantly with <a href="/word-counter">WordCountHub</a> — free, real-time, with readability analysis.</p>`,
+  },
+  'seo-content-length-guide': {
+    title: 'SEO Content Length: How Many Words Do You Need to Rank?',
+    description: 'Data-driven guide to optimal content length for SEO. Blog posts, landing pages, and product descriptions.',
+    date: '2026-03-20', readTime: '9 min',
+    keywords: ['SEO content length', 'how long should a blog post be', 'word count for SEO', 'optimal blog post length'],
+    content: `<p><strong>There is no magic word count for SEO.</strong> But data from Ahrefs, Backlinko, and HubSpot studies consistently shows patterns. Here's what the evidence says.</p>
+
+<h2>What the Data Shows (2024-2026)</h2>
+<table><thead><tr><th>Content Type</th><th>Avg. Length of Top 10 Results</th><th>Recommended Range</th></tr></thead>
+<tbody>
+<tr><td>Blog post (informational)</td><td>1,447 words</td><td>1,200-2,500 words</td></tr>
+<tr><td>Listicle / roundup</td><td>2,300 words</td><td>1,500-3,000 words</td></tr>
+<tr><td>How-to guide</td><td>1,800 words</td><td>1,500-3,000 words</td></tr>
+<tr><td>Product page</td><td>800 words</td><td>500-1,000 words</td></tr>
+<tr><td>Landing page</td><td>500 words</td><td>300-800 words</td></tr>
+<tr><td>Category page</td><td>300 words</td><td>200-500 words</td></tr>
+</tbody></table>
+
+<h2>Why Longer Content Tends to Rank</h2>
+<p>It's not that Google rewards word count directly. Longer content tends to:</p>
+<ul>
+<li>Cover the topic more comprehensively (satisfying search intent)</li>
+<li>Include more long-tail keyword variations naturally</li>
+<li>Earn more backlinks (50%+ more than short content)</li>
+<li>Keep users on page longer (dwell time signal)</li>
+</ul>
+
+<h2>When Shorter Is Better</h2>
+<p>Not every query needs a 2,000-word article:</p>
+<ul>
+<li><strong>"What time is the Super Bowl?"</strong> → 50 words max</li>
+<li><strong>Tool pages</strong> (calculators, converters) → Minimal text, maximum utility</li>
+<li><strong>Transactional queries</strong> → Users want to buy, not read</li>
+</ul>
+<p>Match content length to <strong>search intent</strong>, not an arbitrary target.</p>
+
+<h2>The Goldilocks Approach</h2>
+<ol>
+<li>Google your target keyword</li>
+<li>Check the word count of the top 5 results (use <a href="/word-counter">WordCountHub</a>)</li>
+<li>Match or exceed their depth — not their word count</li>
+<li>Add unique value: original data, expert quotes, case studies</li>
+</ol>
+
+<p>Analyze your content length and readability with <a href="/word-counter">WordCountHub</a> — free and instant.</p>`,
+  },
+  'readability-scores-explained': {
+    title: 'Readability Scores Explained: Flesch, Gunning Fog, and More',
+    description: 'What readability scores mean, how they\'re calculated, and what score to aim for in your writing.',
+    date: '2026-03-17', readTime: '8 min',
+    keywords: ['readability score', 'Flesch reading ease', 'Gunning Fog index', 'readability test', 'writing grade level'],
+    content: `<p><strong>Readability scores measure how easy your text is to understand.</strong> They've been used since the 1940s by the US military, and today they're essential for content marketing, UX writing, and SEO.</p>
+
+<h2>The Main Readability Formulas</h2>
+<table><thead><tr><th>Formula</th><th>Measures</th><th>Scale</th><th>Target for Web</th></tr></thead>
+<tbody>
+<tr><td><strong>Flesch Reading Ease</strong></td><td>Sentence length + syllables</td><td>0-100 (higher = easier)</td><td>60-70</td></tr>
+<tr><td><strong>Flesch-Kincaid Grade</strong></td><td>Same inputs, grade output</td><td>US grade level</td><td>6th-8th grade</td></tr>
+<tr><td><strong>Gunning Fog Index</strong></td><td>Sentence length + complex words</td><td>Years of education needed</td><td>8-10</td></tr>
+<tr><td><strong>Coleman-Liau Index</strong></td><td>Characters per word + sentences</td><td>US grade level</td><td>7th-9th grade</td></tr>
+<tr><td><strong>SMOG Grade</strong></td><td>Polysyllabic words</td><td>Years of education</td><td>8-10</td></tr>
+</tbody></table>
+
+<h2>Flesch Reading Ease: The Gold Standard</h2>
+<p>The most widely used formula. Higher scores mean easier reading:</p>
+<ul>
+<li><strong>90-100:</strong> Very easy (5th grade). Children's books.</li>
+<li><strong>80-90:</strong> Easy (6th grade). Conversational.</li>
+<li><strong>60-70:</strong> Standard (8th-9th grade). Ideal for web content.</li>
+<li><strong>50-60:</strong> Fairly difficult (10th-12th grade). Academic.</li>
+<li><strong>30-50:</strong> Difficult. College level.</li>
+<li><strong>0-30:</strong> Very difficult. Graduate/professional.</li>
+</ul>
+
+<h2>Why Readability Matters for Content</h2>
+<ul>
+<li><strong>Web users skim.</strong> 79% of users scan pages; only 16% read word by word</li>
+<li><strong>Lower readability = higher bounce rate.</strong> If readers struggle, they leave</li>
+<li><strong>Google favors accessible content.</strong> Matching user reading level improves engagement metrics</li>
+<li><strong>Wider audience.</strong> Writing at 8th grade level reaches 85% of English speakers</li>
+</ul>
+
+<h2>How to Improve Your Readability Score</h2>
+<ol>
+<li><strong>Shorter sentences.</strong> Aim for 15-20 words average</li>
+<li><strong>Simpler words.</strong> "Use" not "utilize." "Buy" not "purchase."</li>
+<li><strong>Active voice.</strong> "We tested 6 tools" not "6 tools were tested by us"</li>
+<li><strong>Break up long paragraphs.</strong> 3-4 sentences max per paragraph for web</li>
+<li><strong>Use subheadings.</strong> Break content into scannable sections</li>
+</ol>
+
+<p>Check your readability score instantly with <a href="/word-counter">WordCountHub</a> — Flesch, Gunning Fog, and grade level analysis, all free.</p>`,
+  },
+  'writing-word-count-by-genre': {
+    title: 'Word Count by Genre: Novel, Novella, Short Story, and More',
+    description: 'How long should your book be? Industry-standard word counts for every fiction and non-fiction genre.',
+    date: '2026-03-14', readTime: '7 min',
+    keywords: ['novel word count', 'book word count', 'how long is a novel', 'word count by genre'],
+    content: `<p><strong>Publishers have clear expectations</strong> for manuscript length. Submit a 200,000-word debut novel and it's going straight to the rejection pile. Here are the industry standards.</p>
+
+<h2>Fiction Word Counts</h2>
+<table><thead><tr><th>Category</th><th>Word Count</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>Flash fiction</td><td>Up to 1,000</td><td>Micro stories, often under 500</td></tr>
+<tr><td>Short story</td><td>1,000-7,500</td><td>Magazine standard</td></tr>
+<tr><td>Novelette</td><td>7,500-17,500</td><td>Hugo/Nebula category</td></tr>
+<tr><td>Novella</td><td>17,500-40,000</td><td>Growing market (Kindle)</td></tr>
+<tr><td>Novel</td><td>40,000-110,000</td><td>Standard for traditional publishing</td></tr>
+<tr><td>Epic / saga</td><td>110,000+</td><td>Fantasy/sci-fi tolerance is higher</td></tr>
+</tbody></table>
+
+<h2>Fiction by Genre</h2>
+<table><thead><tr><th>Genre</th><th>Sweet Spot</th><th>Acceptable Range</th></tr></thead>
+<tbody>
+<tr><td>Literary fiction</td><td>80,000-90,000</td><td>70,000-100,000</td></tr>
+<tr><td>Romance</td><td>70,000-80,000</td><td>50,000-100,000</td></tr>
+<tr><td>Mystery / Thriller</td><td>75,000-90,000</td><td>60,000-100,000</td></tr>
+<tr><td>Sci-fi / Fantasy</td><td>90,000-110,000</td><td>80,000-150,000</td></tr>
+<tr><td>Young Adult</td><td>55,000-70,000</td><td>40,000-80,000</td></tr>
+<tr><td>Middle Grade</td><td>30,000-50,000</td><td>25,000-60,000</td></tr>
+</tbody></table>
+
+<h2>Non-Fiction Word Counts</h2>
+<table><thead><tr><th>Type</th><th>Word Count</th></tr></thead>
+<tbody>
+<tr><td>Self-help / Business</td><td>40,000-60,000</td></tr>
+<tr><td>Memoir</td><td>60,000-90,000</td></tr>
+<tr><td>Biography</td><td>80,000-120,000</td></tr>
+<tr><td>Academic / Textbook</td><td>Varies widely</td></tr>
+</tbody></table>
+
+<h2>Why Word Count Matters for Publishing</h2>
+<ul>
+<li><strong>Printing costs:</strong> Longer books cost more to print, affecting pricing and margins</li>
+<li><strong>Reader expectations:</strong> Genre fans expect certain lengths</li>
+<li><strong>Agent screening:</strong> Many agents auto-reject manuscripts outside standard ranges</li>
+</ul>
+
+<p>Track your manuscript word count with <a href="/word-counter">WordCountHub</a> — paste your text for instant analysis.</p>`,
+  },
+  'character-count-for-meta-descriptions': {
+    title: 'Character Count for Meta Descriptions, Titles, and Social Media',
+    description: 'The exact character limits for Google titles, meta descriptions, tweets, and every social media platform.',
+    date: '2026-03-11', readTime: '6 min',
+    keywords: ['meta description character count', 'title tag character limit', 'character count SEO', 'social media character limits'],
+    content: `<p><strong>Character limits are everywhere in digital content.</strong> Go over and your text gets truncated. Go under and you're leaving opportunity on the table. Here are all the limits you need to know.</p>
+
+<h2>SEO Character Limits</h2>
+<table><thead><tr><th>Element</th><th>Character Limit</th><th>Optimal Length</th></tr></thead>
+<tbody>
+<tr><td><strong>Title tag</strong></td><td>~60 characters (600px)</td><td>50-60 characters</td></tr>
+<tr><td><strong>Meta description</strong></td><td>~155 characters (920px)</td><td>120-155 characters</td></tr>
+<tr><td><strong>URL slug</strong></td><td>No hard limit</td><td>3-5 words, under 60 chars</td></tr>
+<tr><td><strong>H1 heading</strong></td><td>No limit</td><td>20-70 characters</td></tr>
+<tr><td><strong>Image alt text</strong></td><td>No hard limit</td><td>Under 125 characters</td></tr>
+</tbody></table>
+
+<h2>Social Media Character Limits (2026)</h2>
+<table><thead><tr><th>Platform</th><th>Post Limit</th><th>Bio Limit</th></tr></thead>
+<tbody>
+<tr><td>X (Twitter)</td><td>280 chars (free) / 25,000 (Premium)</td><td>160 chars</td></tr>
+<tr><td>Instagram caption</td><td>2,200 chars</td><td>150 chars</td></tr>
+<tr><td>LinkedIn post</td><td>3,000 chars</td><td>2,600 chars (About)</td></tr>
+<tr><td>Facebook post</td><td>63,206 chars</td><td>101 chars (intro)</td></tr>
+<tr><td>TikTok caption</td><td>4,000 chars</td><td>80 chars</td></tr>
+<tr><td>Pinterest pin</td><td>500 chars</td><td>160 chars</td></tr>
+<tr><td>YouTube title</td><td>100 chars</td><td>–</td></tr>
+<tr><td>YouTube description</td><td>5,000 chars</td><td>–</td></tr>
+</tbody></table>
+
+<h2>Email Subject Lines</h2>
+<ul>
+<li><strong>Optimal:</strong> 30-50 characters (highest open rates)</li>
+<li><strong>Maximum visible:</strong> ~60 characters on desktop, ~30-40 on mobile</li>
+<li><strong>Preheader text:</strong> 40-130 characters</li>
+</ul>
+
+<h2>Tips for Working Within Limits</h2>
+<ol>
+<li><strong>Write the full version first,</strong> then trim to fit</li>
+<li><strong>Front-load keywords</strong> in case of truncation</li>
+<li><strong>Use <a href="/word-counter">WordCountHub</a></strong> to check character count as you write</li>
+<li><strong>Test on mobile</strong> — limits are tighter on small screens</li>
+</ol>
+
+<p>Count your characters instantly with <a href="/word-counter">WordCountHub</a> — word count, character count (with and without spaces), and more.</p>`,
+  },
 };
 
 export async function generateStaticParams() { return Object.keys(posts).map(slug => ({ slug })); }
